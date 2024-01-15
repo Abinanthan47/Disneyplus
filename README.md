@@ -1,11 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Disney+ 
 
-Currently, two official plugins are available:
+A Disney+  built with React, Tailwind CSS, and the TMDB API. This project is created for personal learning and practice with modern web development technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Disney-" 
-"# Disneyplus" 
-"# Disneyplus" 
+
+## Demo
+
+![image](https://github.com/Abinanthan47/Disneyplus/assets/143276733/f74f5f54-4960-4cc5-a85f-e4e0b047e46c)
+
+![Deployment](https://disneyplus-abinanthan.vercel.app/)
+
+## Features
+
+- Browse movies and TV shows from the TMDB API
+- Responsive design for various screen sizes
+- Better use of React Components
+
+## Technologies
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **TMDB API**: The Movie Database API for fetching movie and TV show data.
+- **React Hooks**: Utilized for state management and other functionalities.
+
+
