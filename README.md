@@ -25,7 +25,7 @@ check out here 🔗 https://disneyplus-abinanthan.vercel.app/
 
 ## Get Started
 
- **Git clone**
+ **Git clone**  - https://github.com/Abinanthan47/Disneyplus.git
 
 
 **Install dependencies:**
