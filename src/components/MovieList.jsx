@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { IoChevronBackOutline, IoChevronForwardOutline } from 'react-icons/io5';
-import GlobalApi from '../Services/GlobalApi';
+import GlobalApi from '../services/GlobalApi';
 import HrMovieCard from './HrMovieCard';
 import MovieCard from './MovieCard';
 function MovieList({ genreId, index_ }) {
